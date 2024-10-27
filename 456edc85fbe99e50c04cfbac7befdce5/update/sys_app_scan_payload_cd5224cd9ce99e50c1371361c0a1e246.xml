@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>a2192dab4b000138d868cdc6ce17f0674e2f350e398f4133005d4def55fcbb65</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>7ae3a8c10c2d9e5079cce89956284cc6</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="{program name} Public Records Requests" language="en" table="!!!table_name_0!!!"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>{program name} Public Records Requests</label><language>en</language><name>!!!table_name_0!!!</name><plural>{program name} Public Records Requests</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_6!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name>sys_documentation_!!!table_name_0!!!__en</sys_update_name><sys_updated_by/><sys_updated_on/><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></serialized_record>
+        <source_class>sys_documentation</source_class>
+        <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
+        <source_name>{program name} Public Records Requests</source_name>
+        <source_sys_id>ba2f5809fbe99e50c04cfbac7befdceb</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-27 19:16:55</sys_created_on>
+        <sys_id>cd5224cd9ce99e50c1371361c0a1e246</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_documentation</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_scan_payload_cd5224cd9ce99e50c1371361c0a1e246</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-27 19:23:57</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

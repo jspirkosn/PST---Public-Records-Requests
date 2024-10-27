@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>3a13977623f5d86c8d78048ae83047e3c07133957c9a7fd0bbe15f8aeee4c310</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>7ae3a8c10c2d9e5079cce89956284cc6</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Can edit and build on my app</description><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>!!!user_role_4!!!</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_3!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_user_role></record_update>]]></serialized_record>
+        <source_class>sys_user_role</source_class>
+        <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
+        <source_name>x_snc_public_rec_0.admin</source_name>
+        <source_sys_id>d73f9c09fbe99e50c04cfbac7befdca8</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-27 19:16:54</sys_created_on>
+        <sys_id>685224cd40e99e50191e50aa55610815</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_user_role</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_scan_payload_685224cd40e99e50191e50aa55610815</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-27 19:23:56</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

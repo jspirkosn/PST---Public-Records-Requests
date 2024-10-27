@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_input_var">
+    <sys_app_template_input_var action="INSERT_OR_UPDATE">
+        <default>7ae3a8c10c2d9e5079cce89956284cc6</default>
+        <description>Scan ID of the Payload &amp; Map scan</description>
+        <flow_input_variable display_value="Scan ID">616e10c5fbe99e50c04cfbac7befdc7d</flow_input_variable>
+        <label>Scan ID</label>
+        <mandatory>true</mandatory>
+        <name>scan_id</name>
+        <sys_class_name>sys_app_template_input_var</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-27 18:59:47</sys_created_on>
+        <sys_id>0e6e10c5a2e99e50a24a30f0d30ca1db</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>scan_id</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_template_input_var_0e6e10c5a2e99e50a24a30f0d30ca1db</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-27 19:25:31</sys_updated_on>
+        <template display_value="Public Records Request - Pub Sector">a96e10c598e99e50badd243f7ce4df3b</template>
+        <type>string</type>
+    </sys_app_template_input_var>
+</record_update>

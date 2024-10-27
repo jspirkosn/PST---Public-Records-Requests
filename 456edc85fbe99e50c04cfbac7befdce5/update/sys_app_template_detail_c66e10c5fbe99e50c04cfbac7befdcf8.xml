@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_detail">
+    <sys_app_template_detail action="INSERT_OR_UPDATE">
+        <additional_uses/>
+        <author>Service-now.com</author>
+        <data_image/>
+        <detailed_description/>
+        <function_type_list/>
+        <header_background_color/>
+        <header_image/>
+        <hero_image_1/>
+        <hero_image_2/>
+        <hero_image_3/>
+        <how_was_built/>
+        <icon>655e1085fbe99e50c04cfbac7befdc06</icon>
+        <metadata_list/>
+        <schema_image/>
+        <short_description>Create and maintain one or more Public Records Request(s)</short_description>
+        <sys_class_name>sys_app_template_detail</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-27 18:59:47</sys_created_on>
+        <sys_id>c66e10c5fbe99e50c04cfbac7befdcf8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_template_detail_c66e10c5fbe99e50c04cfbac7befdcf8</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-10-27 18:59:47</sys_updated_on>
+        <template display_value="Public Records Request - Pub Sector">a96e10c598e99e50badd243f7ce4df3b</template>
+    </sys_app_template_detail>
+</record_update>
