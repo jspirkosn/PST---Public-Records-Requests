@@ -2,7 +2,7 @@
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
         <payload_hash>ab188d9ed003f14460beb61560d25a8d64a87df27631b82f1c8df60100a61259</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>7ae3a8c10c2d9e5079cce89956284cc6</scan_instance>
+        <scan_instance>5a48a40dbd2d9e50daf8e9cbbd9396e0</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_element action="INSERT_OR_UPDATE"><element>contributor_users</element><position>0</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_210!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_103!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>contributor_groups</element><position>1</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_211!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_103!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Contributors</caption><header>false</header><name>!!!table_name_0!!!</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_103!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><title>false</title><view display_value="Case" name="case">b2cb07ffdb420300bb41fd131d96190d</view><view_name/></sys_ui_section></record_update>]]></serialized_record>
         <source_class>sys_ui_section</source_class>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-10-27 19:17:32</sys_created_on>
         <sys_id>0e726ccd5ae99e5074225de1c8872cc7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>sys_ui_section</sys_name>
         <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
         <sys_update_name>sys_app_scan_payload_0e726ccd5ae99e5074225de1c8872cc7</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-10-27 19:24:34</sys_updated_on>
+        <sys_updated_on>2024-10-27 19:43:56</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>
