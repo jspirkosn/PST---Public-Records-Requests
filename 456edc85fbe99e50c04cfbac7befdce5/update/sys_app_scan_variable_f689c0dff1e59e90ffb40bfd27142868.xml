@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>sys_id_1747</name>
+        <original_value>4663451e5f6dd6901e2076637ef1ffd9</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-11-03 17:14:58</sys_created_on>
+        <sys_id>f689c0dff1e59e90ffb40bfd27142868</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_1747</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_scan_variable_f689c0dff1e59e90ffb40bfd27142868</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-11-03 17:14:58</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>78ee3bbb03bc1ba7b311336fd704db36145120b189ac9cdca3bc9e2d109f57a1</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

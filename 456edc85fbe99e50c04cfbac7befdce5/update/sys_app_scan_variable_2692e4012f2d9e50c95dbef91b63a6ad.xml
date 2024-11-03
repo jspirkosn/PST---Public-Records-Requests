@@ -4,21 +4,21 @@
         <original_value>383fd809fbe99e50c04cfbac7befdcef</original_value>
         <referenced_table>sys_app</referenced_table>
         <run_script>false</run_script>
-        <scan_instance>5a48a40dbd2d9e50daf8e9cbbd9396e0</scan_instance>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
         <scan_source>scan</scan_source>
         <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
         <sys_class_name>sys_app_scan_variable</sys_class_name>
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-10-27 19:18:07</sys_created_on>
         <sys_id>2692e4012f2d9e50c95dbef91b63a6ad</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>sys_id_399</sys_name>
         <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
         <sys_update_name>sys_app_scan_variable_2692e4012f2d9e50c95dbef91b63a6ad</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-10-27 19:45:23</sys_updated_on>
+        <sys_updated_on>2024-11-03 17:16:20</sys_updated_on>
         <template_execution_script/>
         <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
         <variable_hash>45b0512350a971dde56cdb8740f16c1d49ee6c5f5d775412203a183f687e0e96</variable_hash>

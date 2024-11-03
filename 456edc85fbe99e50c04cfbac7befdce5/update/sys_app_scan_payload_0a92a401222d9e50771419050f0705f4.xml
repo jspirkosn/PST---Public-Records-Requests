@@ -2,7 +2,7 @@
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
         <payload_hash>0b7941f36b9388e267711c1b2eaeb9e3280520c20fbd2a39ee6d3649e0fe652a</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>5a48a40dbd2d9e50daf8e9cbbd9396e0</scan_instance>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
         <scan_source>scan</scan_source>
         <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_element action="INSERT_OR_UPDATE"><element>applied_date</element><position>0</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_384!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>decision_date</element><position>1</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_385!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_386!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>application_status</element><position>3</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_387!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>preferred_communication_method</element><position>4</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_388!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>5</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_389!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>6</position><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_390!!!</sys_id><sys_mod_count/><sys_ui_formatter/><sys_ui_section display_value="">!!!sys_id_76!!!</sys_ui_section><sys_updated_by/><sys_updated_on/><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Application Details</caption><header>false</header><name>!!!table_name_0!!!</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_76!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><sys_user/><title>false</title><view display_value="Workspace" name="workspace">753ec54cdbc023009bcaff0968961947</view><view_name/></sys_ui_section></record_update>]]></serialized_record>
         <source_class>sys_ui_section</source_class>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-10-27 19:18:05</sys_created_on>
         <sys_id>0a92a401222d9e50771419050f0705f4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>sys_ui_section</sys_name>
         <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
         <sys_update_name>sys_app_scan_payload_0a92a401222d9e50771419050f0705f4</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-10-27 19:45:21</sys_updated_on>
+        <sys_updated_on>2024-11-03 17:16:19</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>

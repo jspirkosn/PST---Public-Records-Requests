@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
     <sys_app_scan_payload action="INSERT_OR_UPDATE">
-        <payload_hash>f2d36943e91c4ad3a2dd3b9f021a074c6a122ad37e0a8d2698fa02aab91def8d</payload_hash>
+        <payload_hash>a320e7d3a799a2862e4e4f4840d92025824fa610568979f9dc236b7630a92703</payload_hash>
         <referenced_table>sys_app</referenced_table>
-        <scan_instance>5a48a40dbd2d9e50daf8e9cbbd9396e0</scan_instance>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
         <scan_source>scan</scan_source>
-        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>AES</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>!!!application_name!!!</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>!!!scope_name!!!</scope><scoped_administration>false</scoped_administration><short_description>!!!short_description!!!</short_description><source>!!!scope_name!!!</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by/><sys_created_on/><sys_id>!!!app_sys_id!!!</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></serialized_record>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>log</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><ide_created>AES</ide_created><installed_as_dependency>false</installed_as_dependency><js_level>es_latest</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>!!!application_name!!!</name><package_json/><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>!!!scope_name!!!</scope><scoped_administration>false</scoped_administration><short_description>!!!short_description!!!</short_description><source>!!!scope_name!!!</source><store_correlation_id/><store_url/><subscription_entitlement/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by/><sys_created_on/><sys_id>!!!app_sys_id!!!</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></serialized_record>
         <source_class>sys_app</source_class>
         <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
         <source_name/>
@@ -13,14 +13,14 @@
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-10-27 18:59:48</sys_created_on>
         <sys_id>1a6e50c5cde99e503e9b71ba2c1f9e43</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>sys_app</sys_name>
         <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
         <sys_update_name>sys_app_scan_payload_1a6e50c5cde99e503e9b71ba2c1f9e43</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-10-27 19:43:00</sys_updated_on>
+        <sys_updated_on>2024-11-03 17:13:39</sys_updated_on>
         <version>1</version>
     </sys_app_scan_payload>
 </record_update>

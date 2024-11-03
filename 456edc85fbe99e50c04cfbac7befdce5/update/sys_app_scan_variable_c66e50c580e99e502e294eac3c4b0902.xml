@@ -4,21 +4,21 @@
         <original_value>Create and maintain one or more Public Records Request(s)</original_value>
         <referenced_table>sys_app</referenced_table>
         <run_script>false</run_script>
-        <scan_instance>5a48a40dbd2d9e50daf8e9cbbd9396e0</scan_instance>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
         <scan_source>scan</scan_source>
         <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
         <sys_class_name>sys_app_scan_variable</sys_class_name>
         <sys_created_by>john.spirko</sys_created_by>
         <sys_created_on>2024-10-27 18:59:48</sys_created_on>
         <sys_id>c66e50c580e99e502e294eac3c4b0902</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>short_description</sys_name>
         <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
         <sys_update_name>sys_app_scan_variable_c66e50c580e99e502e294eac3c4b0902</sys_update_name>
         <sys_updated_by>john.spirko</sys_updated_by>
-        <sys_updated_on>2024-10-27 19:42:59</sys_updated_on>
+        <sys_updated_on>2024-11-03 17:13:39</sys_updated_on>
         <template_execution_script/>
         <type display_value="User">e72dcae25b6e101001fb0c370581c7b9</type>
         <variable_hash>2864d5ea6d8a50f5e3f46e98fcd738d800f2ed0517739a2713a610ab484687eb</variable_hash>

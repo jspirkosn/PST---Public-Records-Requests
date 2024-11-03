@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>d9af5ee9f6eb9e6f82d5b9d59a5cc7b2fe2c828ec8b9b6c6b08632a0a9dc1919</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>execute</operation><source_scope display_value="">!!!app_sys_id!!!</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_1921!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><target_name>ScopedGlideElement</target_name><target_scope display_value="Global">global</target_scope><target_type>scriptable</target_type></sys_scope_privilege></record_update>]]></serialized_record>
+        <source_class>sys_scope_privilege</source_class>
+        <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
+        <source_name>ScopedGlideElement</source_name>
+        <source_sys_id>db6433fafbad1e90c04cfbac7befdc98</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-11-03 17:15:13</sys_created_on>
+        <sys_id>da9948df86e59e9017f6fc0fb50770ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_scope_privilege</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_scan_payload_da9948df86e59e9017f6fc0fb50770ed</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-11-03 17:15:13</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

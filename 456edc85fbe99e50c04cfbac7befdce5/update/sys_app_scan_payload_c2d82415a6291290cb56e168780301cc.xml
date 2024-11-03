@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>a403f27766bc9452f03121d8509072e75cdf66d9f07cf1c9fe28e163ad446ee9</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>0f39cc1f0be59e90181317531db7c242</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">!!!sys_id_902!!!</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_946!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><user_criteria display_value="">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></serialized_record>
+        <source_class>sc_cat_item_user_criteria_no_mtom</source_class>
+        <source_id>dc6edc85fbe99e50c04cfbac7befdc6d</source_id>
+        <source_name>Copy of Create an Enhancement Request - {program name support}.</source_name>
+        <source_sys_id>27f32d49fbe1de50c04cfbac7befdcbf</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko</sys_created_by>
+        <sys_created_on>2024-10-28 14:23:53</sys_created_on>
+        <sys_id>c2d82415a6291290cb56e168780301cc</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>sc_cat_item_user_criteria_no_mtom</sys_name>
+        <sys_package display_value="Public Records Request - Pub Sector" source="x_snc_public_rec_1">456edc85fbe99e50c04cfbac7befdce5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Records Request - Pub Sector">456edc85fbe99e50c04cfbac7befdce5</sys_scope>
+        <sys_update_name>sys_app_scan_payload_c2d82415a6291290cb56e168780301cc</sys_update_name>
+        <sys_updated_by>john.spirko</sys_updated_by>
+        <sys_updated_on>2024-11-03 17:14:00</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
